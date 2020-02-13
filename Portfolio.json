@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ALL",
+    "photo1":"uploads/igallery_img-01",
+    "photo2":"uploads/gallery_img-03",
+    "photo3":"uploads/gallery_img-02",
+    "photo4":"uploads/igallery_img-05",
+    "photo5":"uploads/gallery_img-04",
+    "photo6":"uploads/gallery_img-06"
+
+  },{
+    "name": "WEB DEVELOPPEMNT",
+    "photo1":"uploads/igallery_img-01",
+    "photo2":"uploads/gallery_img-03",
+    "photo3":"uploads/gallery_img-02",
+    "photo4":"uploads/igallery_img-05",
+
+  },{
+    "name": "CREATIV DISIGNER",
+    "photo1":"uploads/igallery_img-01",
+    "photo2":"uploads/igallery_img-05",
+    "photo3":"uploads/gallery_img-04",
+    "photo4":"uploads/gallery_img-06"
+
+  },{
+    "name": "GRAFIC DISIGNER",
+    "photo1":"uploads/igallery_img-01",
+    "photo2":"uploads/igallery_img-05",
+    "photo4":"uploads/gallery_img-06"
+
+  }
+]

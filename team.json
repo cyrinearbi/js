@@ -1,0 +1,22 @@
+[
+    {
+        "name": "KRISTIANA",
+        "work": "Web Designer",
+        "photo":"uploads/img2"
+
+    }, {
+        "name": "MIRANDA JOY",
+        "work": "Web Designer",
+        "photo":"uploads/img4"
+    }, {
+        "name": "WILLIAMSON",
+        "work": "Web Developer",
+        "photo":"uploads/img1"
+
+}, {
+        "name": "STEVE THOMAS",
+        "work": "Web Developer",
+        "photo":"uploads/img3"
+
+}
+]
